@@ -1,13 +1,8 @@
 ### Hi there 👋
 
 👨🏻‍💻  About Me
-💡   I'm a Fullstack Web Developer, mostly working with React but I'm in the process of learning more technologies constantly!
-💻   I'm currently learning React native, AWS, Firebase and Typescript!
-🎓   I studied at SoyHenry's Bootcamp with more than 800 hours of coding
-🌱   I'm on track to learn more about Machine Learning, AI, Robotics and Web Development.
-✍️   In my free time, I play games, talk to, and study together with my friends!
-💬   Feel free to reach out to me, I'll try to respond as soon as possible.
-📄   You can check my CV here.
+ I'm an english translator major student, currently studying web development, specifically Full Stack development thanks to SoyHenry's 800+ hours bootcamp. I'm both proficient in spanish and english, and I consider myself to be creative, communicative and energetic.
+ I have always loved videogames, and that same passion was what led me to learn how to create games, and thus my love for code, and web development later on, was born. I'd love to be part of a great team and I'm open to listening to job offers!
 
 ### 🛠 &nbsp;Tech Stack
 
